@@ -5,7 +5,24 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>超滅「一次創作」公式サイト</title>
     <link rel="stylesheet" href="styles2.css">
-    <style> body {
+    <style> 
+    header {
+      position: fixed; /* 画面上部に固定 */
+      top: 0; /* 上端に配置 */
+      left: 0; /* 左端に配置 */
+      width: 100%; /* 画面幅全体をカバー */
+      color: white; /* 文字色（変更可能） */
+      padding: 10px 20px; /* 内側の余白 */
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* 少し影をつけて浮き上がる効果 */
+      z-index: 1000; /* 他の要素より前面に表示 */
+    }
+
+    /* メインコンテンツのスタイル */
+    main {
+      margin-top: 60px; /* ヘッダー分の余白を追加 */
+      padding: 20px;
+    }
+    body {
         background-image: url('0002.jpg'); /* 画像URLを指定 */
         background-size: cover;  /* 画像を画面全体に合わせる */
         background-position: center center;  /* 画像を中央に配置 */
