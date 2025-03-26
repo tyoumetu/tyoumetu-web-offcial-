@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>超滅「一次創作」公式サイト</title>
+    <style> 
+
+     header {
+      position: fixed; /* 画面上部に固定 */
+      top: 0; /* 上端に配置 */
+      left: 0; /* 左端に配置 */
+      width: 100%; /* 画面幅全体をカバー */
+      color: white; /* 文字色（変更可能） */
+      padding: 10px 20px; /* 内側の余白 */
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* 少し影をつけて浮き上がる効果 */
+      z-index: 1000; /* 他の要素より前面に表示 */
+    }
+
+    /* メインコンテンツのスタイル */
+    main {
+      margin-top: 60px; /* ヘッダー分の余白を追加 */
+      padding: 20px;
+    }
+
+    body {
+        background-image: url('0002.jpg'); /* 画像URLを指定 */
+        background-size: cover;  /* 画像を画面全体に合わせる */
+        background-position: center center;  /* 画像を中央に配置 */
+        background-blend-mode: overlay;
+        background-attachment: fixed; /* 背景を固定 */
+      background-repeat: no-repeat; /* 画像を繰り返さない */
+    }</style>
+    <link rel="stylesheet" href="styles2.css">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link rel="https:tyoumetu.home.jp" href="https:tyoumetu.characters.jp">
+    
+</head>
+<body>
+    <!DOCTYPE html>
+<html lang="ja">
+    <header>
+    <h1>超滅「一次創作」公式サイト</h1>
+    <style> body {
+        background-image: url('0002.jpg'); /* 画像URLを指定 */
+        background-size: cover;  /* 画像を画面全体に合わせる */
+        background-position: center center;  /* 画像を中央に配置 */
+    }</style>
+    </header>
+    <br><br> <br><br> <br><br><h1>創作設定</h1>        
+    <a href="超滅公式サイト(未完成).html"  style="text-decoration: none; padding: 10px 20px; background-color: #33eab0; color: white; border-radius: 5px;">世界観設定</a>準備中<br><br>
+    <a href="超滅公式サイト(未完成).html"  style="text-decoration: none; padding: 10px 20px; background-color: #33eab0; color: white; border-radius: 5px;">キャラクター設定</a>準備中<br><br>
+    <a href="超滅公式サイト(未完成).html"  style="text-decoration: none; padding: 10px 20px; background-color: #33eab0; color: white; border-radius: 5px;">トリビア</a>準備中<br><br>
+    <a href="超滅公式サイト(未完成).html"  style="text-decoration: none; padding: 10px 20px; background-color: #33eab0; color: white; border-radius: 5px;">ガイドライン</a>準備中<br><br>
+</body>
+</body>
+</body>
+</html>
+        <section>
+            <h2></h2>
+            <p></p>
+        </section>
+        
+        <section>
+            <h2></h2>
+            <form id="contact-form">
+               
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 tyoumetsu</p>
+    </footer>
+
+    <script src="scripts.js"></script>
+</body>
+</html>
