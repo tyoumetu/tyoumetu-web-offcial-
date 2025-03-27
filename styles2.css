@@ -26,6 +26,8 @@ footer {
     color: white;
     text-align: center;
     padding: 10px 0;
+    margin-top: auto; /* フッターを下部に押し出す */
+    bottom: 0; /* 常に画面の一番下に表示 */
 }
 
 form input, form button {
@@ -38,4 +40,6 @@ form button {
     background-color:  #057974;
     color: white;
     border: none;
+
+
 }
