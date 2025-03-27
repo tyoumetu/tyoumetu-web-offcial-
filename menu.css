@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    display: flex;
+}
+
+/* ヘッダー */
+header {
+    width: 100%;
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 60px;
+}
+
+/* ナビゲーションバー */
+nav {
+    width: 200px;
+    height: 100vh;
+    background: #222;
+    padding-top: 70px; /* ヘッダーの高さ分ずらす */
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+/* メニューリスト */
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+/* メニュー項目 */
+nav ul li {
+    text-align: center;
+    padding: 15px;
+}
+
+/* メニューリンク */
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    display: block;
+    transition: background 0.3s;
+}
+
+nav ul li a:hover {
+    background: #444;
+}
